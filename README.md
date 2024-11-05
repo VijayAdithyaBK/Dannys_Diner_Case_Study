@@ -27,7 +27,7 @@ The following datasets were provided for analysis:
 
 ### Entity Relationship Diagram
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/237d9ae1-66a7-412b-97ee-68a452dd4d86/bcf9e91c-32ee-468c-9f8d-28a032f14067/image.png)
+![ERD.png](https://github.com/VijayAdithyaBK/Dannys-Diner/blob/main/ERD.png)
 
 ## SQL Queries and Results
 
