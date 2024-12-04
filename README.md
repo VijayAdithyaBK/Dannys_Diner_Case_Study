@@ -4,7 +4,7 @@
 
 **Experience:** 3 Years as Data Analyst
 
-**Portfolio:** ![Portfolio](https://vijayadithyabk.framer.website/)
+**Portfolio:** https://vijayadithyabk.framer.website/
 
 ## Introduction
 
